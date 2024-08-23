@@ -1,0 +1,8 @@
+name: HubNoDrop
+version: '1.0.0-OmxRealm'
+main: org.dw363.HubNoDrop
+api-version: '1.21'
+load: STARTUP
+authors: [dw363]
+description: Плагин, запрещает выбрасывать вещи из инвентаря в хабе, создано специально для сервера OmxRealm. Project The OMX
+website: https://github.com/Hacker123ter
