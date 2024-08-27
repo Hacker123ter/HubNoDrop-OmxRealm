@@ -11,7 +11,7 @@
 
     <name>HubNoDrop</name>
 
-    <description>Плагин, запрещает выбрасывать вещи из инвентаря в хабе, создано специально для сервера OmxRealm.
+    <description>Плагин, запрещает выбрасывать вещи из инвентаря в хабе. Создано специально для сервера OmxRealm.
         Project The OMX
     </description>
     <properties>
